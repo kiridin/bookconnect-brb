@@ -1,0 +1,20 @@
+Oi Bárbara,
+Criei o arquivo redefinir.js dentro da pasta screens. Ele já está com uma estrutura básica que você pode usar 
+como referência. Como ainda não configuramos as rotas, já configurei o App.js para exibir sua tela, é só vc mexer no
+redefinir.js.  
+
+
+Passos para iniciar o projeto:
+
+comando: npx expo start
+
+Abrir o projeto:
+
+Leia o QR code com seu celular.
+Ou aperte w para abrir no navegador.
+
+Caso ocorra algum erro
+Se houver algum erro ao tentar iniciar, instale todas as bibliotecas necessárias com o seguinte comando:
+
+npm install react react-native expo-speech react-native-vector-icons @expo/vector-icons expo-linear-gradient
+(tem que ser a linha toda)
